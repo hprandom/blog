@@ -1,7 +1,7 @@
 const BLOG = {
   title: 'He Ping Blog',
   author: '等闲',
-  email: 'me@hp.email',
+  email: '2021temp@hp.email',
   link: 'https://heping.blog',
   description: '姑苏城外 金鸡湖畔',
   lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
