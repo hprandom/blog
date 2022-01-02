@@ -1,17 +1,17 @@
 const BLOG = {
   title: 'He Ping Blog',
   author: '等闲',
-  email: '2021temp@hp.email',
+  email: '2022@hp.email',
   link: 'https://heping.blog',
   description: '姑苏城外 金鸡湖畔',
-  lang: 'zh-CN', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
+  lang: 'en-US', // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES']
   appearance: 'auto', // ['light', 'dark', 'auto'],
   font: 'sans-serif', // ['sans-serif', 'serif']
   lightBackground: '#ffffff', // use hex value, don't forget '#' e.g #fffefc
   darkBackground: '#18181B', // use hex value, don't forget '#'
   path: '', // leave this empty unless you want to deploy Nobelium in a folder
   since: 2022, // If leave this empty, current year will be used.
-  postsPerPage: 7,
+  postsPerPage: 20,
   sortByDate: false,
   showAbout: true,
   showArchive: true,
